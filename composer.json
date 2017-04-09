@@ -11,7 +11,7 @@
     { "name": "Greg Anderson", "email": "greg.1.anderson@greenknowe.org" },
     { "name": "Jonathan Araña Cruz", "email": "jonhattan@faita.net" },
     { "name": "Jonathan Hedstrom", "email": "jhedstrom@gmail.com" },
-    { "name": "Helmut Hoffer von Ankershoffen", "email": "hhva@20steps.de" },
+    { "name": "Helmut Hoffer von Ankershoffen", "email": "hhva@20steps.de" }
   ],
   "support": {
     "forum": "http://drupal.stackexchange.com/questions/tagged/drush",
